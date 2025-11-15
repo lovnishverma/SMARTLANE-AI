@@ -1535,7 +1535,7 @@ EMERGENCY VEHICLE DETECTION
                 ⚡ Powered by SmartLane AI
             </h2>
             <p style="color: #94a3b8; font-size: 1.125rem; margin-bottom: 2rem; font-weight: 600;">
-                PARANOX 2.0 National Hackathon Project • Developed by Team Source Code
+                PARANOX 2.0 National Hackathon Project • Developed by Team SourceCode
             </p>
             <div style="margin: 2rem 0; padding: 2rem; background: rgba(102, 126, 234, 0.08); 
                         border-radius: 20px; border: 1px solid rgba(102, 126, 234, 0.2);">
@@ -1548,7 +1548,7 @@ EMERGENCY VEHICLE DETECTION
             </div>
             <div style="margin-top: 2.5rem; padding-top: 2.5rem; border-top: 1px solid rgba(255, 255, 255, 0.1);">
                 <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0; font-weight: 600;">
-                    © 2025 Team Source Code • Built for TechXNinjas PARANOX 2.0 Hackathon
+                    © 2025 Team SourceCode • Built for TechXNinjas PARANOX 2.0 Hackathon
                 </p>
             </div>
         </div>
