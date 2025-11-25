@@ -12,6 +12,13 @@ short_description: Paranox 2.0 Hackathon
 license: mit
 ---
 
+
+---
+
+<img width="1835" height="802" alt="image" src="https://github.com/user-attachments/assets/2b312f81-83bd-4284-b5f6-a4c09f570679" />
+
+---
+
 # 🚦 SmartLane AI – Intelligent Traffic & Emergency Vehicle Management System
 
 **📅 Date:** November 16, 2025  
